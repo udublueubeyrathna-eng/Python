@@ -77,6 +77,20 @@ Created visualisations to understand the dataset, including:
 5. Ensure the required CSV files are available in the working directory.
 6. Run the notebook cells in order to follow the data cleaning and analysis process.
 
+## Tableau Dashboard
+
+The project also includes a Tableau dashboard developed using the prepared diabetes dataset. The dashboard allows users to explore diabetes outcomes, examine relevant data patterns and interact with visualisations using filters and a dynamic Risk Threshold parameter.
+
+**Interactive Dashboard:** [View the Diabetes Dashboard](https://public.tableau.com/views/DiabetesRiskPatientProfileDashboard/DiabetesRiskPatientProfileDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Dashboard Preview**
+
+![Diabetes Dashboard](images/tableau-dashboard.png)
+
+**Tableau Workbook:** `Diabetes_Dashboard.twbx`
+
+The packaged workbook is provided for users who wish to open and explore the dashboard in Tableau.
+
 ## Important Note
 
 The `DiabetesRiskScore` is a simple feature created for this academic project. It is not a validated clinical score and should not be used to diagnose diabetes or make medical decisions.
