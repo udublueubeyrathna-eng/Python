@@ -85,7 +85,7 @@ The project also includes a Tableau dashboard developed using the prepared diabe
 
 **Dashboard Preview**
 
-![Diabetes Dashboard](images/tableau-dashboard.png)
+![Diabetes Dashboard](images/tableau-dashboard.jpeg)
 
 **Tableau Workbook:** `Diabetes_Dashboard.twbx`
 
@@ -93,4 +93,4 @@ The packaged workbook is provided for users who wish to open and explore the das
 
 ## Important Note
 
-The `DiabetesRiskScore` is a simple feature created for this academic project. It is not a validated clinical score and should not be used to diagnose diabetes or make medical decisions.
+The DiabetesRiskScore is a simple feature created for this academic project. It is not a validated clinical score and should not be used to diagnose diabetes or make medical decisions.
